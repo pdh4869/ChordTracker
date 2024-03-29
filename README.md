@@ -37,16 +37,19 @@
 
 
 ## 과정
-1. STFT
+###  1. STFT
 ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/4d9fdab5-3821-4242-9b8e-9e49287a9ba4) ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/67e95d1c-3b25-4b08-8dc3-266738d73505)
 
-2. Pitch Detecting
+--------------
+
+### 2. Pitch Detecting
 ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/19c9d059-3c9f-402d-ac79-4788aaf555c9)
 ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/9bb355e2-1526-48e9-9405-c9aa106ce683)
 ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/b395b9d7-a2e6-4f77-ba64-0e0e0255c619)
 
+--------------
 
-3. 결과
+### 3. 결과
 ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/dbc4ff43-417d-4585-8548-fa6e21636840)
 ![image](https://github.com/pdh4869/ChordTracker/assets/76561901/48607887-d630-406d-85e6-86240ed5b653)
 
