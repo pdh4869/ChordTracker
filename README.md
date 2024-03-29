@@ -1,4 +1,4 @@
-![image](https://github.com/pdh4869/ChordTracker/assets/76561901/753ee598-c7f9-41e6-a3a0-bc89d46841ac)![image](https://github.com/pdh4869/ChordTracker/assets/76561901/04f8f8b5-70c7-481c-a363-7d16e240e334)![image](https://github.com/pdh4869/ChordTracker/assets/76561901/eb5f1279-a1e8-4a55-aa08-43edbd67095a)# 악기 연주자들을 위한 음계 인식 애플리케이션 (ChordTracker for Instrument Players)
+# 악기 연주자들을 위한 음계 인식 애플리케이션 (ChordTracker for Instrument Players)
 
 ## 문제 상황
 1. 기존의 음계 인식 애플리케이션은 정확성이 떨어짐
